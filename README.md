@@ -1,9 +1,11 @@
 <h1 align="center">Merhaba! Ben Rojin Orhan 👋</h1>
 <p align="center">
-Isparta Uygulamalı Bilimler Üniversitesi'nde bilgisayar mühendisliği öğrencisiyim. Web teknolojileri ve yapay zeka alanlarında derinlemesine bilgi sahibi olmak için sürekli öğrenme ve kendimi geliştirme arayışındayım. Çeşitli programlama dillerinde deneyim kazanarak, projelerime yenilikçi ve yaratıcı çözümler sunmaya özen gösteriyorum.
+ Isparta Uygulamalı Bilimler Üniversitesi Bilgisayar Mühendisliği bölümünde lisans eğitimimi sürdürmekteyim. Web teknolojileri ve yapay zeka alanlarında uzmanlaşmayı hedefleyerek, bu alanlarda kapsamlı bilgi ve beceriler edinmeye devam etmekteyim. Çeşitli programlama dillerinde deneyim kazanarak, geliştirdiğim projelerde yenilikçi ve etkili çözümler sunmaya özen göstermekteyim.
 </p>
 <p align="center">
-Proje bazlı çalışmalarda kendi hayal gücümü ve problem çözme yeteneklerimi birleştirerek etkileyici sonuçlar elde ediyorum. Her zaman yeni fikirlere açık olup, yenilikçi ve sıra dışı projeler üzerinde çalışmaktan keyif alıyorum.
+Proje bazlı çalışmalarda, analitik düşünme ve problem çözme yeteneklerimi etkin şekilde kullanarak özgün ve katma değer yaratan sonuçlar elde etmekteyim. Sürekli öğrenmeye ve yeni teknolojilere adapte olmaya açık biri olarak, yenilikçi yaklaşımlar geliştirmek ve sektöre katkı sağlayacak projelerde yer almak önceliklerim arasındadır.
+
+Teknolojiyi, gerçek dünya problemlerine stratejik çözümler üretmek için güçlü bir araç olarak görmekteyim.
 </p>
 
 
